@@ -16,6 +16,6 @@
 在使用前，请确保你了解脚本的操作逻辑：
 
 ```bash
-wget [https://raw.githubusercontent.com/你的用户名/仓库名/main/ssh_secure.sh](https://raw.githubusercontent.com/你的用户名/仓库名/main/ssh_secure.sh)
+wget https://raw.githubusercontent.com/spowerplus/linux-ssh-secure/refs/heads/main/ssh_secure.sh
 chmod +x ssh_secure.sh
 sudo ./ssh_secure.sh
